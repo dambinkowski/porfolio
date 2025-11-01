@@ -1,3 +1,3 @@
-# porfolio
-Portfolio Repository
-checking comit working 
+# Portfolio 
+
+My sipmle repository for some of my portfolio projects 
